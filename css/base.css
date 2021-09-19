@@ -1,0 +1,62 @@
+html {
+	color: #000;
+	background: rgb(216, 113, 113);
+
+}
+ul,
+h1,
+h2,
+h3,
+h4,
+td {
+	margin: 0;
+	padding: 0;
+}
+h1,
+h2,
+h3,
+body {
+	font: 13px/1.231 arial, helvetica, clean, sans-serif;
+	*font-size: small;
+	*font: x-small;
+    margin: 0;
+	padding: 0;
+}
+.css-t7 {
+	margin: auto;
+	text-align: left;
+	width: 64.69em;
+	*width: 56.25em;
+}
+.css-u,
+.css-u {
+	float: right;
+}
+div.first,
+
+ div.first {
+	float: left;
+}
+.css-gc .css-u,
+.css-gd {
+	width: 32%;
+	margin-left: 1.99%;
+}
+.css-gc div.first,
+ .css-u {
+	width: 66%;
+}
+.css-gc div.first,
+ div.first {
+	margin-left: 0;
+}
+.css-gc:after,
+.css-gf:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+
